@@ -25,18 +25,27 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=apache-kafka&logoColor=231F20)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
+
+### :rocket: My  projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alkymvaletta&repo=PI01_Alkin_Valeta_DT05)](https://github.com/alkymvaletta/PI01_Alkin_Valeta_DT05)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alkymvaletta&repo=PI02_Datathon_AV)](https://github.com/alkymvaletta/PI02_Datathon_AV)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alkymvaletta&repo=PI03_DataAnalytics_AV)](https://github.com/alkymvaletta/PI03_DataAnalytics_AV)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alkymvaletta&repo=PF-DTS05-E-COMMERCE-OLIST)](https://github.com/alkymvaletta/PF-DTS05-E-COMMERCE-OLIST)
+
+
+
 
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://linkedin.com/in/alkinvaletta"><img src="https://img.shields.io/badge/-Alkin%20Valeta-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/alkinvaleta"><img src="https://img.shields.io/badge/-Alkin%20Valeta-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:alkymvaletta@gmail.com"><img src="https://img.shields.io/badge/-alkymvaletta@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 </p>
-
-![alkymvaletta's GitHub stats](https://github-readme-stats.vercel.app/api?username=alkymvaletta&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alkymvaletta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **alkymvaletta/alkymvaletta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
