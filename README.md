@@ -29,7 +29,6 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=streamlit)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
-https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker
 
 
 ### :rocket: My  projects
